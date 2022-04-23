@@ -3,7 +3,7 @@ from colorama import Fore, init
 init()
 
 
-## set colors more simple :)
+## make colors usage more simple :)
 red = Fore.RED
 lightRed = Fore.LIGHTRED_EX
 
@@ -36,3 +36,5 @@ success = f'{reset}[{green}v{reset}] '
 error = f'{reset}[{yellow}!{reset}] '
 question = f'{reset}[{lightGreen}?{reset}] '
 sub = f'{reset}[{lightGreen}+{reset}] '
+
+#by nxvertime, no writes reserved lol :)
